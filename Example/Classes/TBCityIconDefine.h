@@ -23,5 +23,6 @@
 #define kTBCityIconLocation     TBCityIconInfoMake(@"\U0000e609", kTBCityIconSize, HEXCOLOR(0x33475f))
 #define kTBCityIconPhone        TBCityIconInfoMake(@"\U0000e60a", kTBCityIconSize, HEXCOLOR(0x000000))
 #define kTBCityIconRoundCheck   TBCityIconInfoMake(@"\U0000e60b", kTBCityIconSize, HEXCOLOR(0xf4c600))
+#define kTBCityIconInfo   TBCityIconInfoMake(@"\U0000e616", kTBCityIconSize, HEXCOLOR(0xf4c600))
 
 #endif

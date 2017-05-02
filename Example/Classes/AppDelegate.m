@@ -16,7 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    [TBCityIconFont setFontName:@"LLIconfont"];
+    [TBCityIconFont setFontName:@"iconfont"];
     return YES;
 }
 
